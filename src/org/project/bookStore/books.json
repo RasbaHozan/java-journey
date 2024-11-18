@@ -1,0 +1,104 @@
+{
+	"books" : [
+    {
+        "title": "A Midsummer Night's Dream",
+        "author": "William Shakespeare",
+        "metadata": {
+            "price": 599,
+            "categories": ["classic", "play"],
+            "isbn": "9780486289770",
+            "pages": 158
+        }
+    },
+    {
+        "title": "Advice to Youth",
+        "author": "Mark Twain",
+        "metadata": {
+            "price": 399,
+            "categories": ["humor", "essay"],
+            "isbn": "9781605200501",
+            "pages": 58
+        }
+    },
+    {
+        "title": "The Tempest",
+        "author": "William Shakespeare",
+        "metadata": {
+            "price": 649,
+            "categories": ["classic", "play"],
+            "isbn": "9780486289732",
+            "pages": 120
+        }
+    },
+    {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "metadata": {
+            "price": 1599,
+            "categories": ["fantasy", "young adult"],
+            "isbn": "9780590353427",
+            "pages": 309
+        }
+    },
+    {
+        "title": "The Casual Vacancy",
+        "author": "J.K. Rowling",
+        "metadata": {
+            "price": 1299,
+            "categories": ["fiction", "drama"],
+            "isbn": "9780316228532",
+            "pages": 512
+        }
+    },
+    {
+        "title": "The Ickabog",
+        "author": "J.K. Rowling",
+        "metadata": {
+            "price": 1399,
+            "categories": ["children", "fantasy"],
+            "isbn": "9781338732876",
+            "pages": 304
+        }
+    },
+    {
+        "title": "Great Expectations",
+        "author": "Charles Dickens",
+        "metadata": {
+            "price": 899,
+            "categories": ["classic", "fiction"],
+            "isbn": "9780141439563",
+            "pages": 544
+        }
+    },
+    {
+        "title": "Oliver Twist",
+        "author": "Charles Dickens",
+        "metadata": {
+            "price": 799,
+            "categories": ["classic", "fiction"],
+            "isbn": "9780141439747",
+            "pages": 464
+        }
+    },
+    {
+        "title": "Fairy Tale",
+        "author": "Stephen King",
+        "metadata": {
+            "price": 1599,
+            "categories": ["fantasy", "horror"],
+            "isbn": "9781660004826",
+            "pages": 496
+        }
+    },
+    {
+        "title": "The Mysterious Stranger",
+        "author": "Mark Twain",
+        "metadata": {
+            "price": 499,
+            "categories": ["fiction", "philosophy"],
+            "isbn": "9781505287561",
+            "pages": 124
+        }
+    }
+]
+} 
