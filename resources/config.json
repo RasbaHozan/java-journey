@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://www.saucedemo.com",
+  "browser": "firefox",  
+  "hubUrl": "http://localhost:4444/wd/hub",
+  "email": "standard_user",
+  "password": "secret_sauce"
+}
